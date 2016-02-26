@@ -1,2 +1,2 @@
-# Hastable_lab
-Hastable lab for CSCI 232
+# Hashtable_lab
+Hashtable lab for CSCI 232
